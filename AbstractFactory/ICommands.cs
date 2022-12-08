@@ -11,6 +11,7 @@ namespace AbstractFactory
         public void Confirmation();
         public void Negative();
         public void Encouragement();
+       
 
     }
 }

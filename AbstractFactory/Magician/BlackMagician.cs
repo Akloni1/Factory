@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AbstractFactory.FlyingMagician;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -30,6 +31,11 @@ namespace AbstractFactory.Magician
         public void Encouragement()
         {
             Console.WriteLine("excellent");
+        }
+
+        public void Battle(IFlyingMagician flyingMagician)
+        {
+            flyingMagician.Health = flyingMagician.Health - 20;
         }
     }
 }

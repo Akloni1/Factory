@@ -34,5 +34,10 @@ namespace AbstractFactory.FlyingMagician
         {
             Console.WriteLine("Отлично");
         }
+
+        public void Battle(IMagician magician)
+        {
+            magician.Health = magician.Health - 15;
+        }
     }
 }

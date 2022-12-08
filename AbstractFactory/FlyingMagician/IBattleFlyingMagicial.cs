@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace AbstractFactory.FlyingMagician
 {
-    internal interface IFlyingMagician: IFly, ICommands, IBattleFlyingMagicial
+    internal interface IBattleFlyingMagicial
     {
-        public int Health { get; set; }
-        public int Damage { get; set; }
+        public void Battle(IMagician flyingMagician);
     }
 }

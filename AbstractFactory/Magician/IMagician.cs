@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AbstractFactory.Magician
 {
-    internal interface IMagician: ICommands
+    internal interface IMagician: ICommands, IBattleMagicial
     {
         public int Health { get; set; }
         public int Damage { get; set; }

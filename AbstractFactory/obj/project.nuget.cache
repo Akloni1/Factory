@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H/STsv42hFGvsCgPGRO52PslE8Do5HJyg+GyJnxFr4tViznR9jQNWQBivSSnPSkTIVyfOsKdSKsXcOt0t20ukQ==",
+  "dgSpecHash": "aokw1wWhiy54DIGqPPEE0iR/mY3cfN9f4UMa01wzqd6W+wbeJS4AzDC7mhUfecGNdK3ZNhD75jQFcueuBJdGPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Михаил\\source\\repos\\AbstractFactory\\AbstractFactory.csproj",
+  "projectFilePath": "C:\\Users\\Михаил\\Desktop\\Factory\\AbstractFactory\\AbstractFactory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

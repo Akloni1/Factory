@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Михаил\\source\\repos\\AbstractFactory\\AbstractFactory.csproj": {}
+    "C:\\Users\\Михаил\\Desktop\\Factory\\AbstractFactory\\AbstractFactory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Михаил\\source\\repos\\AbstractFactory\\AbstractFactory.csproj": {
+    "C:\\Users\\Михаил\\Desktop\\Factory\\AbstractFactory\\AbstractFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Михаил\\source\\repos\\AbstractFactory\\AbstractFactory.csproj",
+        "projectUniqueName": "C:\\Users\\Михаил\\Desktop\\Factory\\AbstractFactory\\AbstractFactory.csproj",
         "projectName": "AbstractFactory",
-        "projectPath": "C:\\Users\\Михаил\\source\\repos\\AbstractFactory\\AbstractFactory.csproj",
+        "projectPath": "C:\\Users\\Михаил\\Desktop\\Factory\\AbstractFactory\\AbstractFactory.csproj",
         "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Михаил\\source\\repos\\AbstractFactory\\obj\\",
+        "outputPath": "C:\\Users\\Михаил\\Desktop\\Factory\\AbstractFactory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Михаил\\AppData\\Roaming\\NuGet\\NuGet.Config",
